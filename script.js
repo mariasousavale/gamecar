@@ -14,10 +14,10 @@ let faixaInimigo = 0;
 
 // Situação inicial do jogo.
 let posicaoInimigo = -70;
-let pontos = 5;
+let pontos = 10;
 let carrosDesviados = 0;
 let nivel = 1;
-let velocidade = 6;
+let velocidade = 4;
 let terminou = false;
 
 

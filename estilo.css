@@ -1,5 +1,5 @@
 body {
-  background: #202035;
+  background: #030302;
   color: white;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -15,7 +15,7 @@ h1 {
 #pista {
   width: 300px;
   height: 400px;
-  background: #85b1d5;
+  background: #24292c;
   border: 3px solid cyan;
   margin: 20px auto;
   position: relative;
@@ -66,16 +66,16 @@ h1 {
 
 
 #jogador {
-  background: #7b00ff;
-  color: #7b00ff;
+  background: #200351;
+  color: #200351;
   left: 130px;
   top: 310px;
 }
 
 
 #inimigo {
-  background: #04ff00;
-  color: #04ff00;
+  background: #06dfc6;
+  color: #06dfc6;
   left: 30px;
   top: -70px;
 }
